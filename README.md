@@ -1,3 +1,3 @@
-remote_theme: Hacker
+%remote_theme: Hacker
 
 # so_portfolio
