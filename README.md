@@ -1,11 +1,11 @@
-# Prueba 
+# Prueba  Github Pages
 
-### Technical Skills: Python, SQL
+#### Technical Skills: Python, SQL
 
 ## Education
-- Ph.D. Student | U
-- Ph.D. Student | U
-- Ph.D. Student | U
+- Ph.D. Student | University of (_March 2023 - Present_)
+- Ph.D. Student | University of (_March 2023 - Present_)
+- Ph.D. Student | University of (_March 2023 - Present_)
 
 ## Work Experience
 **Data Scientist (_March 2023 - Present_)**
